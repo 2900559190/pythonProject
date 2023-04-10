@@ -14,5 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
     print("测试pycharm 上传本地项目到 GitHub......")
+    
+    print("修改，测试pull到本地")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
