@@ -10,3 +10,5 @@ print("测试分支1...hot-fix")
 
 print("测试分支2...master")
 print("测试分支3...")
+
+print("测试分支2...")
